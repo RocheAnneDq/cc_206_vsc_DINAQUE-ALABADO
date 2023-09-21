@@ -1,3 +1,6 @@
+// {Rochelle Anne Dinaque}: {It's better to cry now and joy later, than to joy now and cry later }
+// {Bernadette Alabado}: {Time is gold, so if u want my time give me gold}
+
 import 'package:flutter/material.dart';
 
 void main() {
